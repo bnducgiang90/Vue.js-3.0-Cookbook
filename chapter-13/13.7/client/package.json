@@ -18,7 +18,7 @@
     "consola": "^2.10.1",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
