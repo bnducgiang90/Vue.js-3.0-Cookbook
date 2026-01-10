@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "aws-amplify": "^2.2.2",
-    "aws-appsync": "^3.0.2",
+    "aws-amplify": "^5.0.15",
+    "aws-appsync": "^4.1.4",
     "axios": "^0.18.1",
     "graphql": "^14.6.0",
     "graphql-tag": "^2.10.1",
